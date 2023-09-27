@@ -1,5 +1,5 @@
 {
-  "name": "@ivankov/webpack-subresource-integrity",
+  "name": "@sowtame/webpack-subresource-integrity",
   "version": "1.0.0",
   "description": "Webpack plugin for enabling Subresource Integrity",
   "author": "Stepan Ivankov",
