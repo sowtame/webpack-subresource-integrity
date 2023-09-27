@@ -1,16 +1,13 @@
 {
   "name": "webpack-subresource-integrity",
-  "version": "5.2.0-rc.1",
+  "version": "1.0.0",
   "description": "Webpack plugin for enabling Subresource Integrity",
-  "author": "Julian Scheid <julian@evergiving.com>",
+  "author": "Stepan Ivankov",
   "license": "MIT",
-  "homepage": "https://github.com/waysact/webpack-subresource-integrity/tree/main/webpack-subresource-integrity#readme",
+  "homepage": "https://github.com/sowtame/webpack-subresource-integrity/blob/master/webpack-subresource-integrity/README.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/waysact/webpack-subresource-integrity.git"
-  },
-  "bugs": {
-    "url": "https://github.com/waysact/webpack-subresource-integrity/issues"
+    "url": "https://github.com/sowtame/webpack-subresource-integrity"
   },
   "keywords": [
     "webpack",
@@ -18,7 +15,8 @@
     "sri",
     "subresource",
     "integrity",
-    "html-webpack-plugin"
+    "html-webpack-plugin",
+    "webpack-module-federation"
   ],
   "main": "dist/cjs/index.js",
   "module": "dist/mjs/index.js",
